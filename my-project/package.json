@@ -9,10 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@compound-finance/compound-js": "^0.4.4",
     "@headlessui/react": "^1.5.0",
     "@heroicons/react": "^1.0.6",
     "@heroicons/vue": "^1.0.6",
     "@metamask/detect-provider": "^1.2.0",
+    "dotenv": "^16.0.0",
     "heroicons-react": "^1.4.1",
     "next": "12.1.0",
     "react": "17.0.2",

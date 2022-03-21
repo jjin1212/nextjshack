@@ -6,7 +6,7 @@
       "contentHash": "54c28c84e5277b35b8c8329ce9755dae",
       "sourceName": "contracts/Greeter.sol",
       "solcConfig": {
-        "version": "0.8.4",
+        "version": "0.8.0",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -39,11 +39,11 @@
       ]
     },
     "/Users/jjin/j12est/nextjshack/my-project/node_modules/hardhat/console.sol": {
-      "lastModificationDate": 1647577106496,
+      "lastModificationDate": 1647580531107,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
-        "version": "0.8.4",
+        "version": "0.8.0",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -74,11 +74,11 @@
       ]
     },
     "/Users/jjin/j12est/nextjshack/my-project/contracts/WavePortal.sol": {
-      "lastModificationDate": 1647577642005,
+      "lastModificationDate": 1647577837460,
       "contentHash": "42ca024df67ad538be2fae803dad40b0",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
-        "version": "0.8.4",
+        "version": "0.8.0",
         "settings": {
           "optimizer": {
             "enabled": false,
